@@ -1,6 +1,6 @@
-# [Tvořím web od A do Z](https://github.com/TvorimWeb-2018-Praha/tvorim-web-a-z): Podklady pro 9. lekci
+# [Tvořím web od A do Z](https://github.com/czechitas/tvorim-web-a-z): Podklady pro 8. lekci
 
-Krátký odkaz na stažení: [is.gd/lekce9](https://is.gd/lekce9)
+Krátký odkaz na stažení: [https://is.gd/webaz08](https://is.gd/webaz08)
 
 ## Příklady
 
